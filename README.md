@@ -15,4 +15,5 @@ Challenge consists of:
 * Publish the page to a GitHub Pages
       - GiHub Page can be found via the following link: https://clangdon1023.github.io/belly-button-challenge/
 * Bonus, create a Guage Chart to plot the weekly washing frequency of the individual and post it to the published page
+  
      ![image](https://github.com/clangdon1023/belly-button-challenge/blob/main/newplot.png)
