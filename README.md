@@ -4,7 +4,7 @@
 Moduel 14 Challenge
 
 #### Assignment:
-Create an interactive dashboard to explore the Belly Button Biodiversity dataset: https://robdunnlab.com/projects/belly-button-biodiversity/ whic catalogs the microbes that colnize human navels. 
+Create an interactive dashboard to explore the Belly Button Biodiversity dataset: https://robdunnlab.com/projects/belly-button-biodiversity/ which catalogs the microbes that colonize human navels. 
 
 Challenge consists of: 
 * Using the D3 libary to read the samples.json file from: https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
