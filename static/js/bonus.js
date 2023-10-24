@@ -66,8 +66,8 @@ function buildGaugeChart(sample) {
                 text: "<b>Belly Button Washing Frequency</b><br>Scrubs per Week",
                 font: {color: "black", size: 16}
             },
-            type: "dial",
-            mode: "gauge+number",
+            type: "indicator",
+            mode: "gauge",
             gauge: {
                 axis: {range: [0,10], tickmode: "linear", tick0: 2, dtick: 2},
                 bar: {color: "orange"},
