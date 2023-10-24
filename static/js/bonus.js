@@ -67,7 +67,6 @@ function buildGaugeChart(sample) {
                 font: {color: "black", size: 16}
             },
             type: "dial",
-            mode: "gauge+number",
             gauge: {
                 axis: {range: [0,10], tickmode: "linear", tick0: 2, dtick: 2},
                 bar: {color: "orange"},
